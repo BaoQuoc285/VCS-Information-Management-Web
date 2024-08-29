@@ -82,9 +82,13 @@ The primary aim of this project is to practice the knowledge we've acquired and 
    After that,execute ```createdata.sql```
 ## **Usage**
 1. **Run the rest api:**
-   `python app.py`
+   ```bash
+   python app.py
+   ```
 2. **Run the Web application:**
-   `npm start`
+    ```bash
+   npm start
+    ```
    This command starts a local web server and opens the web application with port 8080.
 
 ## **Features**
