@@ -58,9 +58,12 @@ The primary aim of this project is to practice the knowledge we've acquired and 
    ```
 
 2. **Install dependencies:**
-
-   `pip install -r requirements.txt`
-   `npm install`
+```bash
+   pip install -r requirements.txt
+```
+```bash
+   npm install
+```
 
 3. **Setup environment variables**
 
